@@ -46,10 +46,10 @@
 - [x] 動的幾何学模様コンポーネントの作成。
 - [x] コンポーネントの開発およびページ構築（Hero, About, Project等）。
 
-### Phase 3: Validation & Deploy
-- アクセシビリティ・チェック（Lighthouse Accessibility 100 追求）。
-- レスポンシブ対応の徹底検証。
-- GitHub Actions のワークフロー設定 (`.github/workflows/deploy.yml`)。
+### Phase 3: Validation & Deploy (✅ Done)
+- [x] アクセシビリティ・チェック（Lighthouse Accessibility 100 追求）。
+- [x] レスポンシブ対応の徹底検証。
+- [x] GitHub Actions のワークフロー設定 (`.github/workflows/deploy.yml`)。
 
 ## ⚠️ Constraints
 - 余計なユーティリティライブラリ（Tailwind CSS 本体等）の使用を控え、CSS変数を駆使して軽量化と高制御を実現せよ。
